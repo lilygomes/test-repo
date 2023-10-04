@@ -1,2 +1,2 @@
 This change was made on the remote repo.
-This change, however, was made on the local repo! Oh no!
+This is a compromise between the two after i tried merging & failed
